@@ -1,0 +1,53 @@
+[33mcommit 72f89f26579f188e3092c0d5c4c21ada6153d97f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 18:27:41 2024 +0530
+
+    [any message]
+
+[33mcommit a251ed89089927636eeecf3f395c62725efdf91e[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 18:11:47 2024 +0530
+
+    read
+
+[33mcommit 2539a4157119e7dcc2a278236f861eac288a2d4b[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 17:33:26 2024 +0530
+
+    has-object
+
+[33mcommit 5351d1da022574be204908de94ed1826dc6adef7[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 04:49:47 2024 +0530
+
+    Cat-file
+
+[33mcommit 13edcf61e8a010f112e2e36a48bbf3be8b7e36fd[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 03:16:26 2024 +0530
+
+    Version0
+
+[33mcommit 85bc0a39de3915656087c5d529e66c1eb21b3f3c[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 03:13:41 2024 +0530
+
+    test
+
+[33mcommit 60d1e386ad3dfd69df1f24177913995cc1f92934[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 03:08:59 2024 +0530
+
+    test
+
+[33mcommit 3b344a11344b553d71a28829cecfadd2c4dcf8be[m
+Author: Aman-pr <amankhan2729@gmail.com>
+Date:   Sun Dec 22 03:00:15 2024 +0530
+
+    test
+
+[33mcommit c1dc8e869da53a2d85c469079b2b71fc0371c46c[m
+Author: codecrafters-bot <hello@codecrafters.io>
+Date:   Sat Dec 21 18:15:37 2024 +0000
+
+    init [skip ci]
